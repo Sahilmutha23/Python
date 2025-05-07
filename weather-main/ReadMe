@@ -1,0 +1,25 @@
+
+---
+
+### 📁 `weather-main/weather-main/README.md`
+
+```markdown
+# Weather App (CLI)
+
+A command-line app to fetch weather data for a city using a weather API.
+
+## Features
+
+- Fetch current weather by city name
+- Shows temperature, humidity, conditions
+
+## Technologies
+
+- Python
+- requests module
+- OpenWeatherMap API (or similar)
+
+## How to Run
+
+```bash
+python weather.py
