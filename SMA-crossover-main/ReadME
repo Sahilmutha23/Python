@@ -1,0 +1,21 @@
+# SMA Crossover Strategy
+
+This project implements the Simple Moving Average (SMA) crossover strategy to identify buy/sell signals in stock price data.
+
+## Features
+
+- Calculates short-term and long-term SMAs
+- Generates buy/sell signals
+- Visualizes signals on price charts
+
+## Technologies
+
+- Python
+- pandas
+- matplotlib
+- yfinance (if applicable)
+
+## How to Run
+
+```bash
+python sma_crossover.py
