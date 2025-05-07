@@ -1,0 +1,27 @@
+
+---
+
+### 📁 `stock-price-predication-main/README.md`
+
+```markdown
+# Stock Price Prediction
+
+This project uses machine learning to predict stock prices using historical data.
+
+## Features
+
+- Loads CSV stock data
+- Trains a regression model (e.g., Linear Regression, LSTM)
+- Predicts future prices
+
+## Technologies
+
+- Python
+- scikit-learn or TensorFlow/Keras
+- pandas, numpy
+- matplotlib
+
+## How to Run
+
+```bash
+python predict.py
