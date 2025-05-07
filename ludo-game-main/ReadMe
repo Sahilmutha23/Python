@@ -1,0 +1,25 @@
+
+---
+
+### 📁 `ludo-game-main/README.md`
+
+```markdown
+# Ludo Game Simulation
+
+A Python-based simplified Ludo game. Includes player turns, dice rolls, and win logic.
+
+## Features
+
+- Simulates multiple players
+- Uses random dice rolls
+- Win condition logic
+
+## Technologies
+
+- Python
+- random module
+
+## How to Run
+
+```bash
+python ludo.py
