@@ -1,0 +1,25 @@
+
+---
+
+### 📁 `image-detectation-main/README.md`
+
+```markdown
+# Image Detection with OpenCV
+
+A Python project that detects objects in images using basic OpenCV techniques.
+
+## Features
+
+- Reads and displays images
+- Detects shapes, edges, or colors
+- Optional: contour detection or face detection
+
+## Technologies
+
+- Python
+- OpenCV
+
+## How to Run
+
+```bash
+python detect.py
