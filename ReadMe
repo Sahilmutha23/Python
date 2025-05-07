@@ -1,0 +1,22 @@
+
+---
+
+### 🗂️ For Practice Files (`CE1.py`, `DS1.py`, etc.)
+
+Create a **common template** for each README or combine in one for grouped practice:
+
+```markdown
+# Python Practice Programs
+
+This folder contains various Python scripts categorized by topics like:
+
+- CE (Conditional & Expressions)
+- DS (Data Structures)
+- Fn (Functions)
+- Loop (Loops Practice)
+- Indexing, Tuple, List, etc.
+
+## How to Run
+
+```bash
+python CE1.py
